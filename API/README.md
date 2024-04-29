@@ -29,7 +29,7 @@ _Endpoint_ ini berfungsi untuk create data pasien yang akan melakukan _checkup_ 
       "keluhan": "pusing",
       "Resep_obat": ["demacolin", "infalgin"],
       "Biaya": 10000,
-      "Menggunakan_asuransi": false,
+      "Menggunakan_asuransi": true,
       "Nama_asuransi": "indo assurance",
       "Biaya_yang_dicover_asuransi": 6500
     }
